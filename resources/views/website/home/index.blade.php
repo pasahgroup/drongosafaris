@@ -1006,13 +1006,11 @@ Group Tours
 																		</div>
 																</div>
 																	 <div class="btn booking-btn-gray">
-																		<h4 class="text-center booking-btn booking-tourPadding demo-3"> <b style="color:" title="{{$popular_safari->tour_name}}">{{$popular_safari->tour_name}}</b>
+																		<h4 class="text-center demo-3"> <b style="color:" title="{{$popular_safari->tour_name}}">{{$popular_safari->tour_name}}</b>
 																		</h4>
-
 																</div>
 														<div class="blog-text">
 														<div class="row">
-
 																		 <div class="col-md-6 col-sm-6 col-xs-6 booking-btn" style="border-right:1px solid rgba(71,85,95,.11) ">
 																						 <strong>Valid: <b class="text-white">{{ $program->end_date }}</b></strong>
 																				 </div>
@@ -1093,6 +1091,7 @@ Group Tours
 					</div>
  </section>
  	<hr class="text-white booking-btn booking-tourPadding">
+
 	<section>
 <div class="destinantion-block destinantion-v1 border-bottom border-color-8">
 		<div class="container-fluid">
